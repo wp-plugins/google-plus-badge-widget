@@ -1,7 +1,7 @@
 === Google Plus Badge Widget ===
 Contributors: weblizar
 Creator website link: http://weblizar.com/
-Tags: google, plus, google plus, badge, widget, google widget, google plus widget, google plus badge, google plus badge widget, widget, shortcode, g+
+Tags: google, plus, google plus, badge, widget, google widget, google plus widget, google plus badge, google plus badge widget, widget, shortcode, g+, authorship, google, google authorship, google plus author, google plus integration, google plus search, google like button,google plus wordpress, google share plus, ultimate google plus,, google +1 button, google plus one,: bookmark, bookmarking, button, google like, Google share, Like, opengraph, Plus one Share Button, Plus Social Plugin, protocol, Share, sharing, social, social sharing, wordpress google plus
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 1.0

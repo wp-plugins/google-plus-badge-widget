@@ -2,7 +2,7 @@
 /* Plugin Name: Google Plus Badge Widget
 Plugin URI: http://wordpress.org/plugins/google-plus-badge-widget/
 Description: Google Plus Badge plugin allows you to quickly and easily add the new Google Plus badge widget to your blog  WordPress site.
-Version: 1.0
+Version: 1.1
 Author: weblizar
 Author URI: http://weblizar.com
 */
@@ -74,7 +74,7 @@ function display_google_plus_widget_page()
 				<div id="options_tabs" class="ui-tabs ">
 					<ul class="options_tabs ui-tabs-nav" role="tablist" id="nav">					
 						<li class="active"><a href="#" id="general"><div class="dashicons dashicons-admin-home"></div><?php _e('Google Plus','weblizar');?></a></li>					
-						<!--<li ><a href="#" id="ourproduct" style="background-color: #141414;color: #F8F3F3;" ><div class="dashicons dashicons-plus"></div><?php _e('More Products','weblizar');?></a></li>-->
+						<li ><a href="#" id="ourproduct" style="background-color: #141414;color: #F8F3F3;" ><div class="dashicons dashicons-plus"></div><?php _e('Our Products','weblizar');?></a></li>
 					</ul>					
 					<?php require_once('option-settings.php'); ?>	
 				</div>		

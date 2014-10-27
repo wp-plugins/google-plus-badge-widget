@@ -138,7 +138,9 @@ $wl_google_options = get_option('wl_google_options');
 		<h6>Get The Premium, And Create your website Beautifully.  </h6>
     </div>	
 	
-	<div class="col-md-4  demoftr "> 
+	
+	
+	<div class="col-md-6  demoftr "> 
 		<h2>Enigma-Pro</h2>
 		<div class="img-wrapper">
 			<div class="enigma_home_portfolio_showcase">
@@ -219,8 +221,8 @@ $wl_google_options = get_option('wl_google_options');
 						</div>
 					</div>
 					<div class="col-md-12" style="margin-top:20px;">
-						<a class="btn btn-success btn-lg" target="_new" href="#">View Demo</a>&nbsp;&nbsp;
-						<a  class="btn btn-danger btn-lg" target="_new" href="#">Purchase Now</a>
+						<a class="btn btn-success btn-lg" target="_new" href="http://weblizar.com/preview/#enigma_pro">View Demo</a>&nbsp;&nbsp;
+						<a  class="btn btn-danger btn-lg" target="_new" href="http://weblizar.com/themes/enigma-premium/">Purchase Now</a>
 					</div>
 				</div>
 			</div>
@@ -234,7 +236,7 @@ $wl_google_options = get_option('wl_google_options');
 	</div>
 	
 	
-	<div class="col-md-4  demoftr "> 
+	<div class="col-md-6  demoftr "> 
 		<h2>Green Lantern Pro</h2>
 		<div class="img-wrapper">
 			<div class="enigma_home_portfolio_showcase">
@@ -331,8 +333,103 @@ $wl_google_options = get_option('wl_google_options');
 	  </div>
 	</div>
 	
+	<div class="col-md-6  demoftr "> 
+		<h2>Guardian-Pro</h2>
+		<div class="img-wrapper">
+			<div class="enigma_home_portfolio_showcase">
+				<img class="enigma_img_responsive ftr_img"  src="http://weblizar.com/wp-content/themes/home-theme/images/guardian-premium-images/guardian-pro-screenshot.png">
+				<div class="enigma_home_portfolio_showcase_overlay">
+					<div class="enigma_home_portfolio_showcase_overlay_inner ">
+						<div class="enigma_home_portfolio_showcase_icons">
+							<a title="Link" data-toggle="modal" data-target="#myModalguardian" href="View Detail#">View Detail</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	
-	<div class="col-md-4 demoftr "> 
+	<!-- Modal  -->
+	<div class="modal " id="myModalguardian" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+		<div class="modal-content ">
+		  <div class="modal-header ">
+			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+			<h4 class="modal-title" id="myModalLabel"><a data-toggle="modal" data-target="#myModalGreen"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-left fa-2x"></i></a> <a data-toggle="modal" data-target="#myModalweblizar  data-dismiss="modal" href="View Detail#"   class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-right fa-2x"></i></a>
+			</h4>
+		  </div>
+		  <div class="modal-body">
+			<div class="col-md-6">
+				<img class="enigma_img_responsive ftr_img"  src="http://weblizar.com/wp-content/themes/home-theme/images/guardian-premium-images/guardian-pro-screenshot.png">
+			</div>
+			<div class="col-md-6">
+				<div class="theme-info">
+					<h3 class="theme-name">Guardian Pro Theme</h3>
+					<h4 class="theme-author">By <a href="http://weblizar.com/" title="Visit author homepage">weblizar</a></h4>
+					<p class="theme-description">Guardian is HTML5 & CSS3 Responsive WordPress Business theme with business style , 5 blog templates , 5 portfolio templates and touch slider</p>
+					<h4  style="margin-top:20px;">Features</h4>
+					<div class="col-md-6">
+						<div class="enigma_sidebar_link">
+							<p>
+								<i class="fa fa-angle-right"></i>Responsive Design
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Retina Ready 
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Html5 & Css3 
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Multi-purpose Theme
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Unlimited Color Schemes
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Multiple Templates 
+							</p>
+						
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="enigma_sidebar_link">
+							<p>
+								<i class="fa fa-angle-right"></i>All Browser Support
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Powerful Option Panel
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Coming Soon Mode
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Custom Shortcode
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Isotope Effects and lightbox
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Fast & Friendly Support 
+							</p>
+						</div>
+					</div>
+					<div class="col-md-12" style="margin-top:20px;">
+						<a class="btn btn-success btn-lg" target="_new" href="http://weblizar.com/preview/#guardian">View Demo</a>&nbsp;&nbsp;
+						<a  class="btn btn-danger btn-lg" target="_new" href="http://weblizar.com/themes/guardian-premium-theme/">Purchase Now</a>
+					</div>
+				</div>
+			</div>
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	
+	<div class="col-md-6 demoftr "> 
 		<h2>Weblizar Pro</h2>
 		<div class="img-wrapper">
 			<div class="enigma_home_portfolio_showcase">
@@ -438,7 +535,7 @@ $wl_google_options = get_option('wl_google_options');
         <h2>Weblizar's Responsive Wordpress Plugins</h2>
 		<h6>Get the Plugin and create beautiful Galleries and Slideshow.</h6>
     </div>
-	<div class="col-md-6 demoftr">
+	<div class="col-md-4 demoftr">
 		<h2>Lightbox Slider Pro</h2>
 		<div class="img-wrapper">
 			<div class="enigma_home_portfolio_showcase">
@@ -462,6 +559,7 @@ $wl_google_options = get_option('wl_google_options');
 			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
 			<h4 class="modal-title" id="myModalLabel"> <a class="pro-dir-button" data-toggle="modal" data-target="#myModalweblizar"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-left fa-2x"></i></a> <a class="pro-dir-button" data-toggle="modal" data-target="#myModalresponsive"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-right fa-2x"></i></a>
 			</h4>
+			
 		  </div>
 		  <div class="modal-body">
 			<div class="col-md-6">
@@ -533,7 +631,7 @@ $wl_google_options = get_option('wl_google_options');
 	  </div>
 	</div>
 	
-	<div class="col-md-6 demoftr">
+	<div class="col-md-4 demoftr">
 		<h2>Reponsive Photo Gallery</h2>
 		<div class="img-wrapper">
 			<div class="enigma_home_portfolio_showcase">
@@ -555,7 +653,8 @@ $wl_google_options = get_option('wl_google_options');
 		<div class="modal-content ">
 		  <div class="modal-header ">
 			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-			<h4 class="modal-title" id="myModalLabel"> <a class="pro-dir-button" data-toggle="modal" data-target="#myModallightbox"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-left fa-2x"></i></a>
+			
+			<h4 class="modal-title" id="myModalLabel"> <a class="pro-dir-button" data-toggle="modal" data-target="#myModallightbox"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-left fa-2x"></i></a> <a class="pro-dir-button" data-toggle="modal" data-target="#myModalflickr"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-right fa-2x"></i></a>
 			</h4>
 		  </div>
 		  <div class="modal-body">
@@ -627,6 +726,103 @@ $wl_google_options = get_option('wl_google_options');
 		</div>
 	  </div>
 	</div>
+	
+	
+	<div class="col-md-4 demoftr">
+		<h2>Flickr Album Gallery</h2>
+		<div class="img-wrapper">
+			<div class="enigma_home_portfolio_showcase">
+				<img class="enigma_img_responsive ftr_img"  src="http://weblizar.com/wp-content/themes/home-theme/images/flickr-album-gallery-pro/flicker-snap.png">
+				<div class="enigma_home_portfolio_showcase_overlay">
+					<div class="enigma_home_portfolio_showcase_overlay_inner ">
+						<div class="enigma_home_portfolio_showcase_icons">
+							<a title="Link" data-toggle="modal" data-target="#myModalflickr" href="View Detail#">View Detail</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	</div>
+	<!-- Modal  -->
+	<div class="modal " id="myModalflickr" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+		<div class="modal-content ">
+		  <div class="modal-header ">
+			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+			<h4 class="modal-title" id="myModalLabel"> <a class="pro-dir-button" data-toggle="modal" data-target="#myModalresponsive"  data-dismiss="modal" href="View Detail#" class="pro-dir-button"><i style="color:#000;line-height:1.5" class="fa fa-angle-left fa-2x"></i></a>
+			</h4>
+		  </div>
+		  <div class="modal-body">
+			<div class="col-md-6">
+				<img class="enigma_img_responsive ftr_img"  src="http://weblizar.com/wp-content/themes/home-theme/images/flickr-album-gallery-pro/flicker-snap.png">
+			</div>
+			<div class="col-md-6">
+				<div class="theme-info">
+					<h3 class="theme-name">Flickr Album Gallery</h3>
+					<h4 class="theme-author">By <a href="http://weblizar.com/" title="Visit author homepage">weblizar</a></h4>
+					<p class="theme-description">A Highly Animated Flickr Gallery Plugin For WordPress</p>
+					<h4  style="margin-top:20px;">Features</h4>
+					<div class="col-md-6">
+						<div class="enigma_sidebar_link">
+							<p>
+								<i class="fa fa-angle-right"></i>Responsive Design
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>8 Animation Effect  
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>6 Gallery Layout 
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>500+ Fonts Styles
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>10 Color Opacity
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>8 Lightbox 
+							</p>
+						
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="enigma_sidebar_link">
+							<p>
+								<i class="fa fa-angle-right"></i>Gallery Shortcode
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Unlimited Color Schemes
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Retina Ready
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Isotope Effects
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>All Browser Support
+							</p>
+							<p>
+								<i class="fa fa-angle-right"></i>Fast & Friendly Support 
+							</p>
+						</div>
+					</div>
+					<div class="col-md-12" style="margin-top:20px;">
+						<a class="btn btn-success btn-lg" target="_new" href="http://weblizar.com/plugins/flickr-album-gallery-pro/">View Demo</a>&nbsp;&nbsp;
+						<a  class="btn btn-danger btn-lg" target="_new" href="http://weblizar.com/plugins/flickr-album-gallery-pro/">Purchase Now</a>
+					</div>
+				</div>
+			</div>
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
 	
 	</div>											
 	<div class="plan-name centre"> 

@@ -4,7 +4,7 @@ Creator website link: http://weblizar.com/
 Tags: google, plus, google plus, badge, widget, google widget, google plus widget, google plus badge, google plus badge widget, widget, shortcode, g+, authorship, google, google authorship, google plus author, google plus integration, google plus search, google like button,google plus wordpress, google share plus, ultimate google plus,, google +1 button, google plus one,: bookmark, bookmarking, button, google like, Google share, Like, opengraph, Plus one Share Button, Plus Social Plugin, protocol, Share, sharing, social, social sharing, wordpress google plus
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,9 @@ This section describes how to install the plugin and get it working.
 3. Site Widget
 
 == Changelog ==
+
+= 1.3 =
+1. Some minor changes
 
 = 1.2 =
 1. Compatible with wordpress 4.0

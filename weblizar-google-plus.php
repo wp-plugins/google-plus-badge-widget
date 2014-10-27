@@ -2,7 +2,7 @@
 /* Plugin Name: Google Plus Badge Widget
 Plugin URI: http://wordpress.org/plugins/google-plus-badge-widget/
 Description: Google Plus Badge plugin allows you to quickly and easily add the new Google Plus badge widget to your blog  WordPress site.
-Version: 1.2
+Version: 1.3
 Author: weblizar
 Author URI: http://weblizar.com
 */
@@ -53,7 +53,6 @@ function google_admin_enqueue_script() {
 	wp_enqueue_style('op-bootstrap-google', WL_Google_Plugins_URI. '/css/bootstrap.css');
 	wp_enqueue_style('weblizar-bootstrap-responsive-google', WL_Google_Plugins_URI .'/css/bootstrap-responsive.css');
 	wp_enqueue_style('font-awesome-op-google', '//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
-	//wp_enqueue_style('Respo-pricing-table-google', WL_Google_Plugins_URI .'/css/pricing-table-responsive.css');
 	wp_enqueue_style('pricing-table-google', WL_Google_Plugins_URI .'/css/pricing-table.css');
 	
 }
